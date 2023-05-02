@@ -10,4 +10,4 @@ Among skills that had been learned:
  
 
 
- For the time being(31 August 2022), the html file will be simple in format,appearance and interaction. Contains only html element without CSS an JS as the Curriculum does not reach there yet.
+ For the time being(31 August 2022), the html file will be simple in format,appearance and interaction. 
